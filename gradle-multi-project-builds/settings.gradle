@@ -1,0 +1,3 @@
+rootProject.name = 'gradle-multi-project-builds'
+include 'greeting-library'
+include 'greeter'
